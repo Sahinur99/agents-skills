@@ -1,0 +1,22 @@
+﻿# OS & Editor files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Secrets & Environment
+.env
+.env.*
+!.env.example
+
+# Dependency & Cache dirs
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
