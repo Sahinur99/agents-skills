@@ -1,0 +1,11 @@
+{
+  "name": "awesome-design-md",
+  "version": "1.0.0",
+  "description": "84+ design systems and DESIGN.md specifications from top tech websites and brands (Linear, Vercel, Stripe, Apple, Supabase, Notion, etc.) for UI and frontend generation.",
+  "author": "VoltAgent",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VoltAgent/awesome-design-md"
+  },
+  "logo": "assets/logo.svg"
+}

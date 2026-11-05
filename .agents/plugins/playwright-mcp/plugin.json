@@ -1,0 +1,12 @@
+{
+  "name": "playwright-mcp",
+  "version": "1.0.0",
+  "description": "Microsoft Playwright MCP server & browser automation skill for real-browser testing, accessibility snapshots, navigation, and web interaction.",
+  "author": "Microsoft Corporation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/playwright-mcp"
+  },
+  "homepage": "https://playwright.dev",
+  "logo": "assets/logo.svg"
+}
